@@ -20,14 +20,14 @@ body{
     color:rgb(185, 136, 231);
     font-size:15px;
 }
-.div_speed{
+.div_main{
 float:left;
 }
-.div_speed_img{
+.div_main_img{
     width:100px;
     border-radius:100px;
 }
-#speed{
+#main{
     font-size:15px;
     margin:15px;
 }
@@ -41,4 +41,23 @@ float:left;
 #volume{
     font-size:15px;
     margin:15px;
+}
+.div_speed{
+    float:left;
+}
+.div_speed_img{
+    width:100px;
+    border-radius:100px;
+}
+#speed{
+    font-size:15px;
+    margin:15px;
+}
+.play_button{
+    width:130px;
+    font-size:25px;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
 }
