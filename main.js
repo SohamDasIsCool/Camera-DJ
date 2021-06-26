@@ -1,6 +1,7 @@
 song= "";
 x="true";
 score_leftWristY=0;
+score_rightWristY=0;
 rightWristX=0;
 rightWristY=0;
 leftWristX=0;
